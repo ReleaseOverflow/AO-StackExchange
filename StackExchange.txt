@@ -1,0 +1,5 @@
+[Update Info]
+Version=3.01.00
+Download Path=https://github.com/ReleaseOverflow/AO-StackExchange/releases/download/TEST/tumblr_e3243b8b944dadfffad656f2fd0373b3_59c90b06_640.png
+Open Site=https://github.com/ReleaseOverflow/AO-StackExchange/releases/tag/TEST
+Changelog=3.01.00↓Update Checker has a new GUI.↓↓3.00.00↓Major update!↓New installer, which can make an ordinary install with start menu shortcuts and registry entries↓Many other changes↓
