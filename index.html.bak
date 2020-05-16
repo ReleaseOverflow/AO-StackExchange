@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Clamp CC x.1 License</title>
+
+		<!-- meta -->
+		<meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	    <!-- css -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/ionicons.min.css">
+		<link rel="stylesheet" href="css/pace.css">
+	    <link rel="stylesheet" href="css/custom.css">
+
+	    <!-- js -->
+	    <script src="js/jquery-2.1.3.min.js"></script>
+	    <script src="js/bootstrap.min.js"></script>
+	    <script src="js/pace.min.js"></script>
+	    <script src="js/modernizr.custom.js"></script>
+	</head>
+
+	<body>
+		<div class="container">	
+			<header id="site-header">
+				<div class="row">
+					<div class="col-md-4 col-sm-5 col-xs-8">
+						<div class="logo">
+							<h1><a href="index.html"><b>Clamp</b> CC x.1</a></h1>
+						</div>
+					</div><!-- col-md-4 -->
+					<div class="col-md-8 col-sm-7 col-xs-4">
+						<nav class="main-nav" role="navigation">
+							<div class="navbar-header">
+  								<button type="button" id="trigger-overlay" class="navbar-toggle">
+    								<span class="ion-navicon"></span>
+  								</button>
+							</div>
+
+							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  								<ul class="nav navbar-nav navbar-right">
+    								<li class="cl-effect-11"><a href="index.html" data-hover="Home">Home</a></li>
+    								<li class="cl-effect-11"><a href="about.html" data-hover="About">About</a></li>
+    								<li class="cl-effect-11"><a href="contact.html" data-hover="Contact">Contact</a></li>
+  								</ul>
+							</div><!-- /.navbar-collapse -->
+						</nav>
+
+					</div><!-- col-md-8 -->
+				</div>
+			</header>
+		</div>
+
+		<div class="content-body">
+			<div class="container">
+				<div class="row">
+					<main class="col-md-8">
+						<article class="post post-1">
+							<header class="entry-header">
+								<h1 class="entry-title">
+									<a href="single.html">OFFICIAL BINDING STATUES AND CLAUSES</a>
+								</h1>
+								<div class="entry-meta">
+									<span class="post-category"><a href="#">Legal</a></span>
+			
+									<span class="post-date"><a href="#"><time class="entry-date" datetime="2012-11-09T23:15:57+00:00">July 16, 2017</time></a></span>
+			
+									<span class="post-author"><a href="#">Nicholas Caillouet, Dylan Townsend, Blake Funderburg</a></span>
+			
+									<span class="comments-link"><a href="#">Motion-io</a></span>
+								</div>
+							</header>
+							<div class="entry-content clearfix">
+								<p><pre>
+								<?php echo htmlentities($yourText ) ; ?>	
+		The Clamp CC x.1 License is a(n) Original intellectual property of Nicholas Caillouet, Dylan Townsend, and Blake Funderburg (established July 2017).
+		
+		License Holder(s) are individuals who own the Clamp CC x.1 License, and ALL rights published in the license as well as the rights of ANY WORK(s) released under the terms the Clamp CC x.1 License binds. The Clamp CC x.1 OFFICIAL License Holder(s) are listed as follows: Nicholas Caillouet, Dylan Townsend, and Blake Funderburg.
+		All rights to a WORK(s) of ANY type, as well as ALL rights to final decision-making [unless in a License Holder v License Holder situation] are reserved for License Holder(s) only, and this level of permission is known as ROOT consent.
+		ROOT consent CAN NEVER BE GIVEN OR BORROWED, IT CAN NEVER BE IMITATED OR RECREATED, AND IS ONLY OBTAINABLE, HELD, AND UTILISED BY License Holder(s) ONLY.
+		Registration of a(n) new WORK(s), DECISION(s), OR MAINTENANCE(s) of a pre-existing WORK(s) under the Clamp CC x.1 License is known as a(n) CASE(s).
+		YOU MAY NEVER COPY, MODIFY, DISTRIBUTE, EDIT, OR RECREATE the Clamp CC x.1 License. Failure to comply with those reservation(s) will NEVER be tolerated, DESPITE what style(s), CASE(s), situation(s), medium(s), OR method(s) the changes may appear in, EVEN IF YOU HAVE VERIFIABLE written and verbal permission from ALL aforementioned License Holder(s).
+		
+				
+		ANY person's CASE(s) is(are) [CONFIRMED] [in a written and verbal form] by ALL of the Clamp CC x.1 License's OFFICIAL License Holder(s) when in UNANIMOUS agreement to publish OR create ANY form of Original OR unoriginal WORK(s); these approved and verified individuals will be known as 'Licensee(s)'
+		To publish anything under this license, you must be a Licensee(s), and to become an Official Licensee(s) you must verify written and verbal (RECORDING) permission from ALL aforementioned License Holder(s) must be COMPLETELY VERIFIABLE.
+
+		Registration of a(n) new WORK(s), DECISION(s), OR MAINTENANCE(s) of a pre-existing WORK(s) under the Clamp CC x.1 License BY ANY OFFICIAL License Holder(s) is known as a(n) RootCASE(s).
+		ALL registrations and CASE(s) of new Licensee(s) MUST be screened and approved in written and verbal RECORDING via a UNANIMOUS vote from all License Holder(s).
+		Licensee(s) will not hold ANY rights to edit, modify, distribute, OR recreate the Clamp CC x.1 License in ANY way, REGARDLESS of the medium, style, environment, OR state of attempt used to do so, REGARDLESS of consent OR permission(s) granted from ANYONE.
+		Licensee(s) will NEVER hold the right to suggest, pose, submit, OR theorize ANY modification, transmutation, remodeling, compression, edit(s), refinement, deprecation, release, OR vicissitude of the Clamp CC x.1 License, OR ANY WORK(s) released under it.
+		Only established License Holder(s) will retain the right to convene with other OFFICIAL License Holder(s) and pose / submit changes, modifications, and clause alterations to the Clamp CC x.1 License, and ALL WORK(s) released under it, but a change may only be finalized with mutual written and verbal consensus from every current OFFICIAL License Holder(s).
+		
+		ALL registrations and CASE(s) of new WORK(s) submitted by anyone other than an OFFICIAL License Holder(s) [REGARDLESS OF WHAT TYPE OF WORK(S) THEY MIGHT BE] MUST be screened and approved in written and verbal RECORDING via a UNANIMOUS vote from all OFFICIAL License Holder(s), before they can be announced OR released.
+		
+		
+		By using the Clamp CC x.1 License in ANY way to represent, copyright, OR register ANY WORK(s) of a(n) written, verbal, auditory, graphic, somatosensory, olfactory, OR digital nature, you MUST be able to verify that you are either A) a License Holder(s), OR B) become verified to have obtained written and verbal consent of your CASE(s) from ALL OFFICIAL License Holder(s).
+		Only OFFICIAL License Holder(s) MAY APPROVE OR PUSH ANY NEW WORK(s) REGISTERED UNDER THE Clamp CC x.1 License WITHOUT FIRST OBTAINING WRITTEN AND VERBAL CONSENT FROM ALL OTHER OFFICIAL License Holder(s), REGARDLESS OF WHAT TYPE OF WORK(s) THEY ARE.
+		IN THE EVENT OF A CONFLICT BETWEEN ANY License Holder(s) OVER ANY NEWLY APPROVED WORK(S) PUSHED OR APPROVED WITHOUT CONSENSUS, ANY DISAGREEING License Holder(s) MAY VETO A RECENT WORK(S) AND HAVE IT EXPUNGED FROM THE LICENSE REGISTRY.
+
+
+		No License Holder(s) may allow ANY Licensee(s) [OR ANY OTHER PERSON(S)] to have the right to edit, modify, distribute, recreate, innovate, distort, optimize, OR modulate the Clamp CC x.1 License in ANY way, REGARDLESS of ANY verbal, written, OR sensory consent given by ANYONE to do so.
+		
+		ANY transmutation, remodeling, compression, diversification, refinement, vicissitude, OR tampering of the Clamp CC x.1 License OR ANY WORK(s) registered under it that is not a(n) UNANIMOUS, VERIFIABLE consensus [in written and verbal form] among ALL OFFICIAL License Holder(s) will be interpreted as a violation of the Clamp CC x.1 License, REGARDLESS OF CIRCUMSTANCE, COINCIDENCE, OR REASONING.
+		
+
+
+		
+		ANY and ALL rights of ANY and ALL WORK(s) of visual, auditory, gustatory, olfactory, somatosensory, OR of a digital nature that are registered under the Clamp CC x.1 License remain the complete intellectual property of the License Holder(s) entirely.
+		ALL right(s) to ANY licensed WORK(s) [DESPITE the nature] will be reserved to a joint custody Allotted only to OFFICIAL License Holder(s).
+		
+		ALL WORK(s) released OR registered under the Clamp CC x.1 License will be dealt with in an "ALL Rights Reserved" manner when dealing with person(s) who are not OFFICIAL License Holder(s) who retain ROOT consent immunity, as these OFFICIAL License Holder(s) retain ALL Original intellectual rights to ANY and ALL projects released under the Clamp CC x.1 License.
+		
+		Should even ONE License Holder(s) disagree with a motion, usage, registration, modification, deprecation, OR release of ANY choice(s) OR change(s) to the Clamp CC x.1 License, OR ANY and ALL WORK(s) registered under the Clamp CC x.1 License, then a compromise MUST be reached mutually among ALL OFFICIAL License Holder(s) to reach a amicable, synchronous consensus on the matter(s) OR CASE(s) in question, DESPITE the nature of said matter(s) OR CASE(s).
+		
+		UNANIMOUS written and verbal consent MUST be shared among ALL OFFICIAL License Holder(s) to reach ANY decision, DESPITE the nature OR urgency of the situation(s), CASE(s) OR decision(s).
+		
+		
+		
+
+		License Holder(s) MUST notify each other of ANY pending CASE(s), request(s), choice(s), amendment(s), appeal(s), OR announcement(s) and reach synchronous consensus before ANY of the choice(s) OR decision(s) regarding the registration(s), usage, OR ANY other action(s) pertaining to the CASE(s), is considering wholly finalized.
+		
+		ALL of the clauses stated here in the Clamp CC x.1 License are subject to change without notice to the public, should a(n) VERIFIABLE, UNANIMOUS decision(s) be made by ALL OFFICIAL License Holder(s) on a 'case-by-case' basis.
+		This UNANIMOUS consensus MUST be codified in written and verbal form, and all OFFICIAL License Holder(s) must be present for posterity reasons.
+		
+		ANY and ALL attempt(s) to obtain right(s) OR permission(s) to register ANY WORK(s) under the Clamp CC x.1 License, OR ANY attempts to make ANY request(s) of ANY License Holder(s) on the business of this license OR ANY WORK(s) registered under the Clamp CC x.1 License MUST be made clearly known to ALL License Holder(s), and at the point of contacting a License Holder, if ANY previous VERIFIABLE contact about ANY situation(s) OR request(s) regarding your CASE(s) have already been made OR posed previously with ANY other License Holder(s), then this information MUST be made known to the remaining License Holder(s) whom you have yet to contact about your CASE(s), until you have successfully obtained written and verbal consent from ALL OFFICIAL License Holder(s) on your CASE(s).
+		
+		By being a Licensee(s) OR a License Holder(s) of the Clamp CC x.1 License, you give your consent to be bound by the Clamp CC x.1 License and ALL of its terms.
+		By registering OR having a WORK(s) registered under the Clamp CC x.1 License, you give your consent to be bound to the Clamp CC x.1 License and ALL of its terms, statues, and conditions in their entirety.
+		
+		Failure of person(s) to comply with ALL rights of OFFICIAL License Holder(s), and ALL reservation(s) will result in/up to legal OR civil action against the offender(s).
+		Failure to obtain permission(s) in the manner required [verbal and written consent from ALL OFFICIAL License Holder(s)] for utilizing this license in ANY way will result in civil OR legal action(s)/fee(s).
+
+		
+		</pre> </p>
+								<div class="read-more cl-effect-14">
+									<a href="single.html" class="more-link">View Without Formating <span class="meta-nav">→</span></a>
+								</div>
+							</div>
+						</article>
+
+
+		<footer id="site-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<p class="copyright">&copy; Motion-io (2017)</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<!-- Mobile Menu -->
+		<div class="overlay overlay-hugeinc">
+			<button type="button" class="overlay-close"><span class="ion-ios-close-empty"></span></button>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</div>
+
+		<script src="js/script.js"></script>
+
+	</body>
+</html>

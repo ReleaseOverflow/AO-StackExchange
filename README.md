@@ -1,2 +1,2 @@
-# AO-StackExchange
-Anarchy Online Extruder Bar Assembly and Coffee Maker Utility Landing Site
+# Clamp-CC-x.1-License-Registry
+This is an official Registry for the Clamp CC x.1 License. Anyone registered under the Clamp CC x.1 License (License Holder or Licensee), or any projects or works registered under the Clamp CC x.1 License, will be listed under the Wiki sector en masse. For for a more detailed breakdown of current projects and works registered under the Clamp CC x.1 License, refer to the Projects tab.
